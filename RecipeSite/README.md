@@ -1,0 +1,1 @@
+This project exemplifies basic HTML and CSS concepts fo design setting up a foundation for future projects
